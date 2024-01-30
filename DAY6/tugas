@@ -1,0 +1,10 @@
+1.buatlah sebuah fungsi yg akan menghasilkan sebuah array dari banyak data yang dikirim berbentuk string nama nama jurusan.
+jika nama jurusan yg ada di panggil duplikat, maka yg dimasukan ke array hanya salah satunya saja (capslok)
+contoh pemanggilan argument nya : namafunc("PPLG", "HTL", "KLN", "PMN", "pplg"). maka akan menghasilkan array ["PPLG","HTL", "KLN", "PMN"] 
+
+2.buatlah sebuah fungsi yang akn menghitung lembar uang rpiah.
+contoh : 140500
+lembar rupiah :
+rp. 100.000 :1
+rp. 20.000 : 2
+rp. 500 : 1
